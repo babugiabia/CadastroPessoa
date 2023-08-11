@@ -1,0 +1,26 @@
+C:\Users\Aluno\source\repos\Aula_04_agosto\bin\Debug\DbPessoa.mdf
+C:\Users\Aluno\source\repos\Aula_04_agosto\bin\Debug\DbPessoa_log.ldf
+C:\Users\Aluno\source\repos\Aula_04_agosto\bin\Debug\Aula_04_agosto.exe.config
+C:\Users\Aluno\source\repos\Aula_04_agosto\bin\Debug\Aula_04_agosto.exe
+C:\Users\Aluno\source\repos\Aula_04_agosto\bin\Debug\Aula_04_agosto.pdb
+C:\Users\Aluno\source\repos\Aula_04_agosto\obj\Debug\Pessoa.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\Aula_04_agosto\obj\Debug\Pessoa.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\Aula_04_agosto\obj\Debug\Aula_04_agosto.Form1.resources
+C:\Users\Aluno\source\repos\Aula_04_agosto\obj\Debug\Aula_04_agosto.Properties.Resources.resources
+C:\Users\Aluno\source\repos\Aula_04_agosto\obj\Debug\Pessoa.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\Aula_04_agosto\obj\Debug\Pessoa.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Aula_04_agosto\obj\Debug\Aula_04_agosto.exe
+C:\Users\Aluno\source\repos\Aula_04_agosto\obj\Debug\Aula_04_agosto.pdb
+E:\PROGRAMAÇÃO\BANCO DE DADOS\Aula_04_agosto\bin\Debug\DbPessoa.mdf
+E:\PROGRAMAÇÃO\BANCO DE DADOS\Aula_04_agosto\bin\Debug\DbPessoa_log.ldf
+E:\PROGRAMAÇÃO\BANCO DE DADOS\Aula_04_agosto\bin\Debug\Aula_04_agosto.exe.config
+E:\PROGRAMAÇÃO\BANCO DE DADOS\Aula_04_agosto\bin\Debug\Aula_04_agosto.exe
+E:\PROGRAMAÇÃO\BANCO DE DADOS\Aula_04_agosto\bin\Debug\Aula_04_agosto.pdb
+E:\PROGRAMAÇÃO\BANCO DE DADOS\Aula_04_agosto\obj\Debug\Pessoa.csproj.AssemblyReference.cache
+E:\PROGRAMAÇÃO\BANCO DE DADOS\Aula_04_agosto\obj\Debug\Pessoa.csproj.SuggestedBindingRedirects.cache
+E:\PROGRAMAÇÃO\BANCO DE DADOS\Aula_04_agosto\obj\Debug\Aula_04_agosto.Form1.resources
+E:\PROGRAMAÇÃO\BANCO DE DADOS\Aula_04_agosto\obj\Debug\Aula_04_agosto.Properties.Resources.resources
+E:\PROGRAMAÇÃO\BANCO DE DADOS\Aula_04_agosto\obj\Debug\Pessoa.csproj.GenerateResource.cache
+E:\PROGRAMAÇÃO\BANCO DE DADOS\Aula_04_agosto\obj\Debug\Pessoa.csproj.CoreCompileInputs.cache
+E:\PROGRAMAÇÃO\BANCO DE DADOS\Aula_04_agosto\obj\Debug\Aula_04_agosto.exe
+E:\PROGRAMAÇÃO\BANCO DE DADOS\Aula_04_agosto\obj\Debug\Aula_04_agosto.pdb
